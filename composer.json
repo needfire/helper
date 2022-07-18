@@ -1,0 +1,19 @@
+{
+    "name": "majorbio/helper",
+    "description": "常用工具",
+    "authors": [
+        {
+            "name": "刘",
+            "email": "guofeng.liu@majorbio.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "majorbio\\helper\\": "src"
+        }
+    }
+}
