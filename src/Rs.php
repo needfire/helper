@@ -2,7 +2,7 @@
 
 namespace majorbio\helper;
 
-class RS
+class Rs
 {
     /**
      * 代号
